@@ -13,15 +13,15 @@
 
 - Love to play **Chess and Mobile games**
 
-- 📫 How to reach me **ssvaidya28@gmail.com**
+- 📫 How to reach me? Drop me an email on **ssvaidya28@gmail.com**
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/swanand vaidya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swanand vaidya" height="30" width="40" /></a>
-<a href="https://instagram.com/swanand vaidya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swanand vaidya" height="30" width="40" /></a>
-<a href="https://medium.com/@swanandvaidya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@swanandvaidya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/swanand vaidya" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="swanand vaidya" height="32" /></a>
+<a href="https://instagram.com/swanand vaidya" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="swanand vaidya" height="32"  /></a>
+<a href="https://medium.com/@swanandvaidya" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@swanandvaidya" height="32" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
