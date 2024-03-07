@@ -5,7 +5,7 @@
 
 - 🔭 Currently working on **TMDB clone in React Native and Jetpack Compose**
 
-- 🌱 Side by Side I'm learning **React Native and Flutter**
+- 🌱 Also learning **React Native and Flutter** 
 
 - 📝 I generally do not write the Blogs instead I love to read those
 
