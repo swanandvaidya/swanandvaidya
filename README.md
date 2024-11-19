@@ -1,5 +1,5 @@
 <h1 align="center">Hello Everyone 👋, I'm Swanand Vaidya 🥷🏻</h1>
-<h3 align="center">A Native Android Developer with 9+ years of experience and also Freelance Developer, who loves to create beautiful Apps</h3>
+<h3 align="center">A Native Android Developer with 10+ years of experience and also Freelance Developer, who loves to create beautiful Apps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swnanandvaidya&label=Profile%20views&color=0e75b6&style=flat" alt="swnanandvaidya" /> </p>
 
