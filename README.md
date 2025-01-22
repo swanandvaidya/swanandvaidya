@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Kotlin, Jetpack Compose, Java and React Native**
 
-- Love to play **Chess and Mobile games**
+- Love to play **Chess and Mobile/PlayStattion games, Favourite Game -> Last Of Us**
 
 - 📫 How to reach me? Drop me an email on **ssvaidya28@gmail.com**
 
